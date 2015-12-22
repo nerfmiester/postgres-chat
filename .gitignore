@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+## Directory-based project format:
+.idea/
+
+vendor/
