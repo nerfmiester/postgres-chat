@@ -35,5 +35,5 @@ ALTER TABLE users
 
 Then you can add users like so
 
-curl -i -v -X POST -d"name=Jim Defries&email=jdf@hollowspace.com&password=darkgrounds" http://localhost:3000/users
+curl -i -v -X POST -d"name=Berry Bonds&email=househo@kreaft.com&password=ulancestance" http://localhost:3000/users/create
 
